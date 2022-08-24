@@ -1,1 +1,2 @@
-0x06-regular_expressions
+#!bin/bash
+my first readme
