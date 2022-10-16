@@ -1,5 +1,3 @@
-#!/usr/bin/env/ bash
-# configure the file to login to a server without entering the passphrase
-
-PasswordAutontication no
 IdentityFile ~/.ssh/school
+PasswordAuthentication no
+PubkeyAuthentication yes
